@@ -51,7 +51,7 @@ To conquer the "Not supported" challenge, follow these steps with precision:
 
 
 8. **Flag extraction:** Search for the flag using the command `strings readable_pid6028_dump.txt | grep -A 10 -i BHFlagY`. You should see the flag inside "BHFlagY{ }".
- <img src="IMG/8.png" style="width: 100%">
+    <img src="IMG/8.png" style="width: 100%">
 
 9. **Claim Your Victory:** You have successfully extracted the flag from the depths of the Notepad process. You are now one step closer to proving your forensic expertise in the Blackhat MEA CTF.
  
