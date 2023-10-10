@@ -1,5 +1,8 @@
 # Blackhat-MEA-2023-CTF-Writeups
 
+<img src="LOGO/BHMEA.jpeg" style="width: 100%">
+
+
 This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) challenges. The CTF challenges are designed to test and enhance your skills in various areas of cybersecurity. Each challenge presents a unique scenario and requires you to solve a series of vulnerability exploitations.
 
 ## Challenges
