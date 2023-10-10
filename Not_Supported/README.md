@@ -29,7 +29,7 @@ To conquer the "Not supported" challenge, follow these steps with precision:
     <img src="IMG/2.png" style="width: 100%">
  
 
-4. **Retrieve the Notepad Process:** Start your quest to find the elusive Notepad process within the running processes. Use the command `strings running_processes.txt | grep Notepad` to extract the Process ID (PID). This number represents the unique proccess number of the Notepad.exe process.
+4. **Retrieve the Notepad Process:** Start your quest to find the Notepad process within the running processes. Use the command `strings running_processes.txt | grep Notepad` to extract the Process ID (PID). This number represents the unique proccess number of the Notepad.exe process.
 
     <img src="IMG/3.png" style="width: 100%">
 
