@@ -27,7 +27,7 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
 - **What am I?**
   - Description: Can you figure out what type of file this is?!?
   - Difficulty: Easy
-  - Points: 50
+  - Points: 80
   - Category: Reverse Engineering
   - Writeup: [What Am I? Writeup](./What_Am_I?/README.md)
 <br><br>
