@@ -21,7 +21,7 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
   - Difficulty: Easy
   - Points: 50
   - Category: Forensics
-  - Writeup: (Comming Soon!)
+  - Writeup: [USB100 Writeup](./USB100/README.md)
 <br><br>
 
 - **What am I?**
@@ -29,7 +29,7 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
   - Difficulty: Easy
   - Points: 50
   - Category: Reverse Engineering
-  - Writeup: (Comming Soon!)
+  - Writeup: [What Am I? Writeup](./What_Am_I?/README.md)
 <br><br>
 
 - **Can you break the armor?**
