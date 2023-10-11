@@ -13,7 +13,7 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
   - Difficulty: Hard
   - Points: 300
   - Category: Forensics
-  - Writeup: [Extend](./Extend/README.md)
+  - Writeup: [Extend Writeup](./Extend/README.md)
 <br><br>
 
 - **Not Supported**
