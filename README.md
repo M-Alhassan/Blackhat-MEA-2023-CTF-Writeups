@@ -29,7 +29,7 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
   - Difficulty: Easy
   - Points: 80
   - Category: Reverse Engineering
-  - Writeup: [What Am I? Writeup](./What_Am_I?/README.md)
+  - Writeup: [What Am I? Writeup](./What_Am_I/README.md)
 <br><br>
 
 - **Can you break the armor?**
