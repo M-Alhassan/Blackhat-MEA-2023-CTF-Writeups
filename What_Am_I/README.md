@@ -42,16 +42,18 @@ Welcome to the qualification rounds of the Blackhat MEA CTF! In this challenge, 
 
 10. Inspect the contents of the archive and look for the bitmap file.
 
+    <img src="IMG/9.png" style="width: 100%">
+
+
+
 11. Navigate to the directory named ".rsrc/BITMAP". Here, you will find the "102.bmp" file.
 
     <img src="IMG/7.png" style="width: 100%">
     
-    <img src="IMG/8.png" style="width: 100%">
-
 
 12. Open the "102.bmp" bitmap file using an image viewer to read the flag clearly.
 
-    <img src="IMG/9.png" style="width: 100%">
+    <img src="IMG/8.png" style="width: 100%">
 
 
 ## Challenge Notes
