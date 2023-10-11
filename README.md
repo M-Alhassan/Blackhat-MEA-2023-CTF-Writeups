@@ -8,6 +8,14 @@ This repository contains writeups for the Blackhat 2023 Capture the Flag (CTF) c
 
 ## Challenges
 
+- **Extend**
+  - Description: Is this a normal image??
+  - Difficulty: Hard
+  - Points: 300
+  - Category: Forensics
+  - Writeup: [Extend](./Extend/README.md)
+<br><br>
+
 - **Not Supported**
   - Description: Straight forward challenge, the flag is written on running notepad process. Flag is direct without BHFlagY{} tag.
   - Difficulty: Medium
